@@ -1,0 +1,2 @@
+obj-y := count_tasks.o
+
